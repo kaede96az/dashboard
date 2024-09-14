@@ -6,7 +6,7 @@
 import flatPickr from 'vue-flatpickr-component'
 import 'flatpickr/dist/themes/material_green.css'
 import { Japanese as JapaneseLocale} from 'flatpickr/dist/l10n/ja.js'
-import YearSelectPlugin from '@/plugins/YearSelectPlugin';
+import YearSelectPlugin from '@/tools/YearSelectPlugin';
 
 defineProps<{
 }>()
