@@ -49,6 +49,8 @@
       <p class="text-caption text-right">{{ noticeForImage }}</p>
     </v-col>
   </v-row>
+
+  <SelectDateToOpenIssues :dates="datesForSelection" />
 </template>
 
 <script setup lang="ts">
