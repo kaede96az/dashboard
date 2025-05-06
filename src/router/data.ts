@@ -6,9 +6,9 @@ export const AppBarUseHelpPage = shallowRef(false)
 export const AppBarHelpPageLink = shallowRef('')
 
 // production
-const DatasetsURL = import.meta.env.VITE_DATASETS_URL
+//const DatasetsURL = import.meta.env.VITE_DATASETS_URL
 // for debug
-//const DatasetsURL = '/_datasets/'
+const DatasetsURL = '/_datasets/'
 
 export const MedicalInstitutionReportsURL = DatasetsURL + 'medical-institution-reports.json'
 export const MedicalInstitutionMetadataURL = DatasetsURL + 'medical-institution-metadata.json'
