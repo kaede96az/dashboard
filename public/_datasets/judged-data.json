@@ -1,0 +1,1181 @@
+[
+  {
+    "Date": "2021/08/19",
+    "CertifiedCount": 29,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 29,
+    "RepudiationCountSum": 0,
+    "CertifiedRateSum": 100.0
+  },
+  {
+    "Date": "2021/09/13",
+    "CertifiedCount": 37,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 66,
+    "RepudiationCountSum": 0,
+    "CertifiedRateSum": 100.0
+  },
+  {
+    "Date": "2021/10/22",
+    "CertifiedCount": 81,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 147,
+    "RepudiationCountSum": 0,
+    "CertifiedRateSum": 100.0
+  },
+  {
+    "Date": "2021/11/19",
+    "CertifiedCount": 126,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 273,
+    "RepudiationCountSum": 0,
+    "CertifiedRateSum": 100.0
+  },
+  {
+    "Date": "2021/12/09",
+    "CertifiedCount": 17,
+    "RepudiationCount": 6,
+    "CertifiedRate": 73.91,
+    "CertifiedCountSum": 290,
+    "RepudiationCountSum": 6,
+    "CertifiedRateSum": 97.97
+  },
+  {
+    "Date": "2021/12/23",
+    "CertifiedCount": 110,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 400,
+    "RepudiationCountSum": 6,
+    "CertifiedRateSum": 98.52
+  },
+  {
+    "Date": "2022/01/28",
+    "CertifiedCount": 115,
+    "RepudiationCount": 3,
+    "CertifiedRate": 97.46,
+    "CertifiedCountSum": 515,
+    "RepudiationCountSum": 9,
+    "CertifiedRateSum": 98.28
+  },
+  {
+    "Date": "2022/02/10",
+    "CertifiedCount": 3,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 518,
+    "RepudiationCountSum": 9,
+    "CertifiedRateSum": 98.29
+  },
+  {
+    "Date": "2022/02/24",
+    "CertifiedCount": 48,
+    "RepudiationCount": 13,
+    "CertifiedRate": 78.69,
+    "CertifiedCountSum": 566,
+    "RepudiationCountSum": 22,
+    "CertifiedRateSum": 96.26
+  },
+  {
+    "Date": "2022/03/25",
+    "CertifiedCount": 84,
+    "RepudiationCount": 14,
+    "CertifiedRate": 85.71,
+    "CertifiedCountSum": 650,
+    "RepudiationCountSum": 36,
+    "CertifiedRateSum": 94.75
+  },
+  {
+    "Date": "2022/04/28",
+    "CertifiedCount": 58,
+    "RepudiationCount": 15,
+    "CertifiedRate": 79.45,
+    "CertifiedCountSum": 708,
+    "RepudiationCountSum": 51,
+    "CertifiedRateSum": 93.28
+  },
+  {
+    "Date": "2022/05/19",
+    "CertifiedCount": 23,
+    "RepudiationCount": 4,
+    "CertifiedRate": 85.19,
+    "CertifiedCountSum": 731,
+    "RepudiationCountSum": 55,
+    "CertifiedRateSum": 93.0
+  },
+  {
+    "Date": "2022/06/02",
+    "CertifiedCount": 62,
+    "RepudiationCount": 4,
+    "CertifiedRate": 93.94,
+    "CertifiedCountSum": 793,
+    "RepudiationCountSum": 59,
+    "CertifiedRateSum": 93.08
+  },
+  {
+    "Date": "2022/06/23",
+    "CertifiedCount": 56,
+    "RepudiationCount": 3,
+    "CertifiedRate": 94.92,
+    "CertifiedCountSum": 849,
+    "RepudiationCountSum": 62,
+    "CertifiedRateSum": 93.19
+  },
+  {
+    "Date": "2022/07/25",
+    "CertifiedCount": 1,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 850,
+    "RepudiationCountSum": 62,
+    "CertifiedRateSum": 93.2
+  },
+  {
+    "Date": "2022/07/28",
+    "CertifiedCount": 60,
+    "RepudiationCount": 5,
+    "CertifiedRate": 92.31,
+    "CertifiedCountSum": 910,
+    "RepudiationCountSum": 67,
+    "CertifiedRateSum": 93.14
+  },
+  {
+    "Date": "2022/09/09",
+    "CertifiedCount": 10,
+    "RepudiationCount": 2,
+    "CertifiedRate": 83.33,
+    "CertifiedCountSum": 920,
+    "RepudiationCountSum": 69,
+    "CertifiedRateSum": 93.02
+  },
+  {
+    "Date": "2022/09/22",
+    "CertifiedCount": 65,
+    "RepudiationCount": 13,
+    "CertifiedRate": 83.33,
+    "CertifiedCountSum": 985,
+    "RepudiationCountSum": 82,
+    "CertifiedRateSum": 92.31
+  },
+  {
+    "Date": "2022/10/17",
+    "CertifiedCount": 11,
+    "RepudiationCount": 2,
+    "CertifiedRate": 84.62,
+    "CertifiedCountSum": 996,
+    "RepudiationCountSum": 84,
+    "CertifiedRateSum": 92.22
+  },
+  {
+    "Date": "2022/10/27",
+    "CertifiedCount": 101,
+    "RepudiationCount": 13,
+    "CertifiedRate": 88.6,
+    "CertifiedCountSum": 1097,
+    "RepudiationCountSum": 97,
+    "CertifiedRateSum": 91.88
+  },
+  {
+    "Date": "2022/11/07",
+    "CertifiedCount": 21,
+    "RepudiationCount": 4,
+    "CertifiedRate": 84.0,
+    "CertifiedCountSum": 1118,
+    "RepudiationCountSum": 101,
+    "CertifiedRateSum": 91.71
+  },
+  {
+    "Date": "2022/11/24",
+    "CertifiedCount": 111,
+    "RepudiationCount": 19,
+    "CertifiedRate": 85.38,
+    "CertifiedCountSum": 1229,
+    "RepudiationCountSum": 120,
+    "CertifiedRateSum": 91.1
+  },
+  {
+    "Date": "2022/12/12",
+    "CertifiedCount": 14,
+    "RepudiationCount": 5,
+    "CertifiedRate": 73.68,
+    "CertifiedCountSum": 1243,
+    "RepudiationCountSum": 125,
+    "CertifiedRateSum": 90.86
+  },
+  {
+    "Date": "2022/12/22",
+    "CertifiedCount": 70,
+    "RepudiationCount": 21,
+    "CertifiedRate": 76.92,
+    "CertifiedCountSum": 1313,
+    "RepudiationCountSum": 146,
+    "CertifiedRateSum": 89.99
+  },
+  {
+    "Date": "2023/01/12",
+    "CertifiedCount": 20,
+    "RepudiationCount": 1,
+    "CertifiedRate": 95.24,
+    "CertifiedCountSum": 1333,
+    "RepudiationCountSum": 147,
+    "CertifiedRateSum": 90.07
+  },
+  {
+    "Date": "2023/01/13",
+    "CertifiedCount": 64,
+    "RepudiationCount": 11,
+    "CertifiedRate": 85.33,
+    "CertifiedCountSum": 1397,
+    "RepudiationCountSum": 158,
+    "CertifiedRateSum": 89.84
+  },
+  {
+    "Date": "2023/01/23",
+    "CertifiedCount": 62,
+    "RepudiationCount": 8,
+    "CertifiedRate": 88.57,
+    "CertifiedCountSum": 1459,
+    "RepudiationCountSum": 166,
+    "CertifiedRateSum": 89.78
+  },
+  {
+    "Date": "2023/02/06",
+    "CertifiedCount": 79,
+    "RepudiationCount": 10,
+    "CertifiedRate": 88.76,
+    "CertifiedCountSum": 1538,
+    "RepudiationCountSum": 176,
+    "CertifiedRateSum": 89.73
+  },
+  {
+    "Date": "2023/02/09",
+    "CertifiedCount": 66,
+    "RepudiationCount": 11,
+    "CertifiedRate": 85.71,
+    "CertifiedCountSum": 1604,
+    "RepudiationCountSum": 187,
+    "CertifiedRateSum": 89.56
+  },
+  {
+    "Date": "2023/02/10",
+    "CertifiedCount": 18,
+    "RepudiationCount": 3,
+    "CertifiedRate": 85.71,
+    "CertifiedCountSum": 1622,
+    "RepudiationCountSum": 190,
+    "CertifiedRateSum": 89.51
+  },
+  {
+    "Date": "2023/03/14",
+    "CertifiedCount": 23,
+    "RepudiationCount": 1,
+    "CertifiedRate": 95.83,
+    "CertifiedCountSum": 1645,
+    "RepudiationCountSum": 191,
+    "CertifiedRateSum": 89.6
+  },
+  {
+    "Date": "2023/03/17",
+    "CertifiedCount": 184,
+    "RepudiationCount": 28,
+    "CertifiedRate": 86.79,
+    "CertifiedCountSum": 1829,
+    "RepudiationCountSum": 219,
+    "CertifiedRateSum": 89.31
+  },
+  {
+    "Date": "2023/03/27",
+    "CertifiedCount": 183,
+    "RepudiationCount": 23,
+    "CertifiedRate": 88.83,
+    "CertifiedCountSum": 2012,
+    "RepudiationCountSum": 242,
+    "CertifiedRateSum": 89.26
+  },
+  {
+    "Date": "2023/04/07",
+    "CertifiedCount": 176,
+    "RepudiationCount": 31,
+    "CertifiedRate": 85.02,
+    "CertifiedCountSum": 2188,
+    "RepudiationCountSum": 273,
+    "CertifiedRateSum": 88.91
+  },
+  {
+    "Date": "2023/04/17",
+    "CertifiedCount": 18,
+    "RepudiationCount": 3,
+    "CertifiedRate": 85.71,
+    "CertifiedCountSum": 2206,
+    "RepudiationCountSum": 276,
+    "CertifiedRateSum": 88.88
+  },
+  {
+    "Date": "2023/04/20",
+    "CertifiedCount": 192,
+    "RepudiationCount": 30,
+    "CertifiedRate": 86.49,
+    "CertifiedCountSum": 2398,
+    "RepudiationCountSum": 306,
+    "CertifiedRateSum": 88.68
+  },
+  {
+    "Date": "2023/05/08",
+    "CertifiedCount": 197,
+    "RepudiationCount": 40,
+    "CertifiedRate": 83.12,
+    "CertifiedCountSum": 2595,
+    "RepudiationCountSum": 346,
+    "CertifiedRateSum": 88.24
+  },
+  {
+    "Date": "2023/05/26",
+    "CertifiedCount": 27,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 2622,
+    "RepudiationCountSum": 346,
+    "CertifiedRateSum": 88.34
+  },
+  {
+    "Date": "2023/05/31",
+    "CertifiedCount": 17,
+    "RepudiationCount": 33,
+    "CertifiedRate": 34.0,
+    "CertifiedCountSum": 2639,
+    "RepudiationCountSum": 379,
+    "CertifiedRateSum": 87.44
+  },
+  {
+    "Date": "2023/06/09",
+    "CertifiedCount": 170,
+    "RepudiationCount": 19,
+    "CertifiedRate": 89.95,
+    "CertifiedCountSum": 2809,
+    "RepudiationCountSum": 398,
+    "CertifiedRateSum": 87.59
+  },
+  {
+    "Date": "2023/06/19",
+    "CertifiedCount": 23,
+    "RepudiationCount": 7,
+    "CertifiedRate": 76.67,
+    "CertifiedCountSum": 2832,
+    "RepudiationCountSum": 405,
+    "CertifiedRateSum": 87.49
+  },
+  {
+    "Date": "2023/06/26",
+    "CertifiedCount": 49,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 2881,
+    "RepudiationCountSum": 405,
+    "CertifiedRateSum": 87.67
+  },
+  {
+    "Date": "2023/06/29",
+    "CertifiedCount": 282,
+    "RepudiationCount": 13,
+    "CertifiedRate": 95.59,
+    "CertifiedCountSum": 3163,
+    "RepudiationCountSum": 418,
+    "CertifiedRateSum": 88.33
+  },
+  {
+    "Date": "2023/07/10",
+    "CertifiedCount": 172,
+    "RepudiationCount": 40,
+    "CertifiedRate": 81.13,
+    "CertifiedCountSum": 3335,
+    "RepudiationCountSum": 458,
+    "CertifiedRateSum": 87.93
+  },
+  {
+    "Date": "2023/07/14",
+    "CertifiedCount": 27,
+    "RepudiationCount": 9,
+    "CertifiedRate": 75.0,
+    "CertifiedCountSum": 3362,
+    "RepudiationCountSum": 467,
+    "CertifiedRateSum": 87.8
+  },
+  {
+    "Date": "2023/07/26",
+    "CertifiedCount": 172,
+    "RepudiationCount": 41,
+    "CertifiedRate": 80.75,
+    "CertifiedCountSum": 3534,
+    "RepudiationCountSum": 508,
+    "CertifiedRateSum": 87.43
+  },
+  {
+    "Date": "2023/07/31",
+    "CertifiedCount": 52,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 3586,
+    "RepudiationCountSum": 508,
+    "CertifiedRateSum": 87.59
+  },
+  {
+    "Date": "2023/08/04",
+    "CertifiedCount": 186,
+    "RepudiationCount": 41,
+    "CertifiedRate": 81.94,
+    "CertifiedCountSum": 3772,
+    "RepudiationCountSum": 549,
+    "CertifiedRateSum": 87.29
+  },
+  {
+    "Date": "2023/08/21",
+    "CertifiedCount": 38,
+    "RepudiationCount": 4,
+    "CertifiedRate": 90.48,
+    "CertifiedCountSum": 3810,
+    "RepudiationCountSum": 553,
+    "CertifiedRateSum": 87.33
+  },
+  {
+    "Date": "2023/08/30",
+    "CertifiedCount": 78,
+    "RepudiationCount": 0,
+    "CertifiedRate": 100.0,
+    "CertifiedCountSum": 3888,
+    "RepudiationCountSum": 553,
+    "CertifiedRateSum": 87.55
+  },
+  {
+    "Date": "2023/08/31",
+    "CertifiedCount": 210,
+    "RepudiationCount": 34,
+    "CertifiedRate": 86.07,
+    "CertifiedCountSum": 4098,
+    "RepudiationCountSum": 587,
+    "CertifiedRateSum": 87.47
+  },
+  {
+    "Date": "2023/09/11",
+    "CertifiedCount": 142,
+    "RepudiationCount": 1,
+    "CertifiedRate": 99.3,
+    "CertifiedCountSum": 4240,
+    "RepudiationCountSum": 588,
+    "CertifiedRateSum": 87.82
+  },
+  {
+    "Date": "2023/09/15",
+    "CertifiedCount": 36,
+    "RepudiationCount": 14,
+    "CertifiedRate": 72.0,
+    "CertifiedCountSum": 4276,
+    "RepudiationCountSum": 602,
+    "CertifiedRateSum": 87.66
+  },
+  {
+    "Date": "2023/09/22",
+    "CertifiedCount": 74,
+    "RepudiationCount": 3,
+    "CertifiedRate": 96.1,
+    "CertifiedCountSum": 4350,
+    "RepudiationCountSum": 605,
+    "CertifiedRateSum": 87.79
+  },
+  {
+    "Date": "2023/09/27",
+    "CertifiedCount": 170,
+    "RepudiationCount": 39,
+    "CertifiedRate": 81.34,
+    "CertifiedCountSum": 4520,
+    "RepudiationCountSum": 644,
+    "CertifiedRateSum": 87.53
+  },
+  {
+    "Date": "2023/10/06",
+    "CertifiedCount": 130,
+    "RepudiationCount": 35,
+    "CertifiedRate": 78.79,
+    "CertifiedCountSum": 4650,
+    "RepudiationCountSum": 679,
+    "CertifiedRateSum": 87.26
+  },
+  {
+    "Date": "2023/10/16",
+    "CertifiedCount": 25,
+    "RepudiationCount": 12,
+    "CertifiedRate": 67.57,
+    "CertifiedCountSum": 4675,
+    "RepudiationCountSum": 691,
+    "CertifiedRateSum": 87.12
+  },
+  {
+    "Date": "2023/10/23",
+    "CertifiedCount": 79,
+    "RepudiationCount": 16,
+    "CertifiedRate": 83.16,
+    "CertifiedCountSum": 4754,
+    "RepudiationCountSum": 707,
+    "CertifiedRateSum": 87.05
+  },
+  {
+    "Date": "2023/10/26",
+    "CertifiedCount": 160,
+    "RepudiationCount": 60,
+    "CertifiedRate": 72.73,
+    "CertifiedCountSum": 4914,
+    "RepudiationCountSum": 767,
+    "CertifiedRateSum": 86.5
+  },
+  {
+    "Date": "2023/11/13",
+    "CertifiedCount": 137,
+    "RepudiationCount": 19,
+    "CertifiedRate": 87.82,
+    "CertifiedCountSum": 5051,
+    "RepudiationCountSum": 786,
+    "CertifiedRateSum": 86.53
+  },
+  {
+    "Date": "2023/11/17",
+    "CertifiedCount": 36,
+    "RepudiationCount": 7,
+    "CertifiedRate": 83.72,
+    "CertifiedCountSum": 5087,
+    "RepudiationCountSum": 793,
+    "CertifiedRateSum": 86.51
+  },
+  {
+    "Date": "2023/11/24",
+    "CertifiedCount": 85,
+    "RepudiationCount": 34,
+    "CertifiedRate": 71.43,
+    "CertifiedCountSum": 5172,
+    "RepudiationCountSum": 827,
+    "CertifiedRateSum": 86.21
+  },
+  {
+    "Date": "2023/11/29",
+    "CertifiedCount": 185,
+    "RepudiationCount": 34,
+    "CertifiedRate": 84.47,
+    "CertifiedCountSum": 5357,
+    "RepudiationCountSum": 861,
+    "CertifiedRateSum": 86.15
+  },
+  {
+    "Date": "2023/12/08",
+    "CertifiedCount": 142,
+    "RepudiationCount": 21,
+    "CertifiedRate": 87.12,
+    "CertifiedCountSum": 5499,
+    "RepudiationCountSum": 882,
+    "CertifiedRateSum": 86.18
+  },
+  {
+    "Date": "2023/12/18",
+    "CertifiedCount": 27,
+    "RepudiationCount": 12,
+    "CertifiedRate": 69.23,
+    "CertifiedCountSum": 5526,
+    "RepudiationCountSum": 894,
+    "CertifiedRateSum": 86.07
+  },
+  {
+    "Date": "2023/12/25",
+    "CertifiedCount": 77,
+    "RepudiationCount": 30,
+    "CertifiedRate": 71.96,
+    "CertifiedCountSum": 5603,
+    "RepudiationCountSum": 924,
+    "CertifiedRateSum": 85.84
+  },
+  {
+    "Date": "2023/12/27",
+    "CertifiedCount": 132,
+    "RepudiationCount": 29,
+    "CertifiedRate": 81.99,
+    "CertifiedCountSum": 5735,
+    "RepudiationCountSum": 953,
+    "CertifiedRateSum": 85.75
+  },
+  {
+    "Date": "2024/01/15",
+    "CertifiedCount": 129,
+    "RepudiationCount": 29,
+    "CertifiedRate": 81.65,
+    "CertifiedCountSum": 5864,
+    "RepudiationCountSum": 982,
+    "CertifiedRateSum": 85.66
+  },
+  {
+    "Date": "2024/01/19",
+    "CertifiedCount": 27,
+    "RepudiationCount": 21,
+    "CertifiedRate": 56.25,
+    "CertifiedCountSum": 5891,
+    "RepudiationCountSum": 1003,
+    "CertifiedRateSum": 85.45
+  },
+  {
+    "Date": "2024/01/26",
+    "CertifiedCount": 74,
+    "RepudiationCount": 42,
+    "CertifiedRate": 63.79,
+    "CertifiedCountSum": 5965,
+    "RepudiationCountSum": 1045,
+    "CertifiedRateSum": 85.09
+  },
+  {
+    "Date": "2024/01/31",
+    "CertifiedCount": 123,
+    "RepudiationCount": 46,
+    "CertifiedRate": 72.78,
+    "CertifiedCountSum": 6088,
+    "RepudiationCountSum": 1091,
+    "CertifiedRateSum": 84.8
+  },
+  {
+    "Date": "2024/02/09",
+    "CertifiedCount": 156,
+    "RepudiationCount": 35,
+    "CertifiedRate": 81.68,
+    "CertifiedCountSum": 6244,
+    "RepudiationCountSum": 1126,
+    "CertifiedRateSum": 84.72
+  },
+  {
+    "Date": "2024/02/19",
+    "CertifiedCount": 32,
+    "RepudiationCount": 21,
+    "CertifiedRate": 60.38,
+    "CertifiedCountSum": 6276,
+    "RepudiationCountSum": 1147,
+    "CertifiedRateSum": 84.55
+  },
+  {
+    "Date": "2024/02/26",
+    "CertifiedCount": 68,
+    "RepudiationCount": 55,
+    "CertifiedRate": 55.28,
+    "CertifiedCountSum": 6344,
+    "RepudiationCountSum": 1202,
+    "CertifiedRateSum": 84.07
+  },
+  {
+    "Date": "2024/02/29",
+    "CertifiedCount": 127,
+    "RepudiationCount": 65,
+    "CertifiedRate": 66.15,
+    "CertifiedCountSum": 6471,
+    "RepudiationCountSum": 1267,
+    "CertifiedRateSum": 83.63
+  },
+  {
+    "Date": "2024/03/11",
+    "CertifiedCount": 110,
+    "RepudiationCount": 51,
+    "CertifiedRate": 68.32,
+    "CertifiedCountSum": 6581,
+    "RepudiationCountSum": 1318,
+    "CertifiedRateSum": 83.31
+  },
+  {
+    "Date": "2024/03/15",
+    "CertifiedCount": 17,
+    "RepudiationCount": 27,
+    "CertifiedRate": 38.64,
+    "CertifiedCountSum": 6598,
+    "RepudiationCountSum": 1345,
+    "CertifiedRateSum": 83.07
+  },
+  {
+    "Date": "2024/03/18",
+    "CertifiedCount": 52,
+    "RepudiationCount": 51,
+    "CertifiedRate": 50.49,
+    "CertifiedCountSum": 6650,
+    "RepudiationCountSum": 1396,
+    "CertifiedRateSum": 82.65
+  },
+  {
+    "Date": "2024/03/28",
+    "CertifiedCount": 145,
+    "RepudiationCount": 52,
+    "CertifiedRate": 73.6,
+    "CertifiedCountSum": 6795,
+    "RepudiationCountSum": 1448,
+    "CertifiedRateSum": 82.43
+  },
+  {
+    "Date": "2024/04/12",
+    "CertifiedCount": 119,
+    "RepudiationCount": 41,
+    "CertifiedRate": 74.38,
+    "CertifiedCountSum": 6914,
+    "RepudiationCountSum": 1489,
+    "CertifiedRateSum": 82.28
+  },
+  {
+    "Date": "2024/04/17",
+    "CertifiedCount": 74,
+    "RepudiationCount": 38,
+    "CertifiedRate": 66.07,
+    "CertifiedCountSum": 6988,
+    "RepudiationCountSum": 1527,
+    "CertifiedRateSum": 82.07
+  },
+  {
+    "Date": "2024/04/25",
+    "CertifiedCount": 129,
+    "RepudiationCount": 49,
+    "CertifiedRate": 72.47,
+    "CertifiedCountSum": 7117,
+    "RepudiationCountSum": 1576,
+    "CertifiedRateSum": 81.87
+  },
+  {
+    "Date": "2024/05/02",
+    "CertifiedCount": 27,
+    "RepudiationCount": 28,
+    "CertifiedRate": 49.09,
+    "CertifiedCountSum": 7144,
+    "RepudiationCountSum": 1604,
+    "CertifiedRateSum": 81.66
+  },
+  {
+    "Date": "2024/05/13",
+    "CertifiedCount": 86,
+    "RepudiationCount": 70,
+    "CertifiedRate": 55.13,
+    "CertifiedCountSum": 7230,
+    "RepudiationCountSum": 1674,
+    "CertifiedRateSum": 81.2
+  },
+  {
+    "Date": "2024/05/17",
+    "CertifiedCount": 75,
+    "RepudiationCount": 39,
+    "CertifiedRate": 65.79,
+    "CertifiedCountSum": 7305,
+    "RepudiationCountSum": 1713,
+    "CertifiedRateSum": 81.0
+  },
+  {
+    "Date": "2024/05/20",
+    "CertifiedCount": 49,
+    "RepudiationCount": 34,
+    "CertifiedRate": 59.04,
+    "CertifiedCountSum": 7354,
+    "RepudiationCountSum": 1747,
+    "CertifiedRateSum": 80.8
+  },
+  {
+    "Date": "2024/05/31",
+    "CertifiedCount": 30,
+    "RepudiationCount": 22,
+    "CertifiedRate": 57.69,
+    "CertifiedCountSum": 7384,
+    "RepudiationCountSum": 1769,
+    "CertifiedRateSum": 80.67
+  },
+  {
+    "Date": "2024/06/10",
+    "CertifiedCount": 74,
+    "RepudiationCount": 27,
+    "CertifiedRate": 73.27,
+    "CertifiedCountSum": 7458,
+    "RepudiationCountSum": 1796,
+    "CertifiedRateSum": 80.59
+  },
+  {
+    "Date": "2024/06/17",
+    "CertifiedCount": 46,
+    "RepudiationCount": 58,
+    "CertifiedRate": 44.23,
+    "CertifiedCountSum": 7504,
+    "RepudiationCountSum": 1854,
+    "CertifiedRateSum": 80.19
+  },
+  {
+    "Date": "2024/06/20",
+    "CertifiedCount": 93,
+    "RepudiationCount": 24,
+    "CertifiedRate": 79.49,
+    "CertifiedCountSum": 7597,
+    "RepudiationCountSum": 1878,
+    "CertifiedRateSum": 80.18
+  },
+  {
+    "Date": "2024/06/28",
+    "CertifiedCount": 25,
+    "RepudiationCount": 33,
+    "CertifiedRate": 43.1,
+    "CertifiedCountSum": 7622,
+    "RepudiationCountSum": 1911,
+    "CertifiedRateSum": 79.95
+  },
+  {
+    "Date": "2024/07/05",
+    "CertifiedCount": 63,
+    "RepudiationCount": 59,
+    "CertifiedRate": 51.64,
+    "CertifiedCountSum": 7685,
+    "RepudiationCountSum": 1970,
+    "CertifiedRateSum": 79.6
+  },
+  {
+    "Date": "2024/07/11",
+    "CertifiedCount": 53,
+    "RepudiationCount": 51,
+    "CertifiedRate": 50.96,
+    "CertifiedCountSum": 7738,
+    "RepudiationCountSum": 2021,
+    "CertifiedRateSum": 79.29
+  },
+  {
+    "Date": "2024/07/25",
+    "CertifiedCount": 24,
+    "RepudiationCount": 33,
+    "CertifiedRate": 42.11,
+    "CertifiedCountSum": 7762,
+    "RepudiationCountSum": 2054,
+    "CertifiedRateSum": 79.07
+  },
+  {
+    "Date": "2024/07/31",
+    "CertifiedCount": 73,
+    "RepudiationCount": 32,
+    "CertifiedRate": 69.52,
+    "CertifiedCountSum": 7835,
+    "RepudiationCountSum": 2086,
+    "CertifiedRateSum": 78.97
+  },
+  {
+    "Date": "2024/08/05",
+    "CertifiedCount": 64,
+    "RepudiationCount": 35,
+    "CertifiedRate": 64.65,
+    "CertifiedCountSum": 7899,
+    "RepudiationCountSum": 2121,
+    "CertifiedRateSum": 78.83
+  },
+  {
+    "Date": "2024/08/19",
+    "CertifiedCount": 38,
+    "RepudiationCount": 62,
+    "CertifiedRate": 38.0,
+    "CertifiedCountSum": 7937,
+    "RepudiationCountSum": 2183,
+    "CertifiedRateSum": 78.43
+  },
+  {
+    "Date": "2024/08/22",
+    "CertifiedCount": 33,
+    "RepudiationCount": 17,
+    "CertifiedRate": 66.0,
+    "CertifiedCountSum": 7970,
+    "RepudiationCountSum": 2200,
+    "CertifiedRateSum": 78.37
+  },
+  {
+    "Date": "2024/08/30",
+    "CertifiedCount": 24,
+    "RepudiationCount": 29,
+    "CertifiedRate": 45.28,
+    "CertifiedCountSum": 7994,
+    "RepudiationCountSum": 2229,
+    "CertifiedRateSum": 78.2
+  },
+  {
+    "Date": "2024/09/06",
+    "CertifiedCount": 55,
+    "RepudiationCount": 45,
+    "CertifiedRate": 55.0,
+    "CertifiedCountSum": 8049,
+    "RepudiationCountSum": 2274,
+    "CertifiedRateSum": 77.97
+  },
+  {
+    "Date": "2024/09/12",
+    "CertifiedCount": 59,
+    "RepudiationCount": 40,
+    "CertifiedRate": 59.6,
+    "CertifiedCountSum": 8108,
+    "RepudiationCountSum": 2314,
+    "CertifiedRateSum": 77.8
+  },
+  {
+    "Date": "2024/09/18",
+    "CertifiedCount": 45,
+    "RepudiationCount": 48,
+    "CertifiedRate": 48.39,
+    "CertifiedCountSum": 8153,
+    "RepudiationCountSum": 2362,
+    "CertifiedRateSum": 77.54
+  },
+  {
+    "Date": "2024/09/26",
+    "CertifiedCount": 27,
+    "RepudiationCount": 31,
+    "CertifiedRate": 46.55,
+    "CertifiedCountSum": 8180,
+    "RepudiationCountSum": 2393,
+    "CertifiedRateSum": 77.37
+  },
+  {
+    "Date": "2024/10/07",
+    "CertifiedCount": 46,
+    "RepudiationCount": 44,
+    "CertifiedRate": 51.11,
+    "CertifiedCountSum": 8226,
+    "RepudiationCountSum": 2437,
+    "CertifiedRateSum": 77.15
+  },
+  {
+    "Date": "2024/10/21",
+    "CertifiedCount": 41,
+    "RepudiationCount": 56,
+    "CertifiedRate": 42.27,
+    "CertifiedCountSum": 8267,
+    "RepudiationCountSum": 2493,
+    "CertifiedRateSum": 76.83
+  },
+  {
+    "Date": "2024/10/24",
+    "CertifiedCount": 32,
+    "RepudiationCount": 19,
+    "CertifiedRate": 62.75,
+    "CertifiedCountSum": 8299,
+    "RepudiationCountSum": 2512,
+    "CertifiedRateSum": 76.76
+  },
+  {
+    "Date": "2024/10/31",
+    "CertifiedCount": 29,
+    "RepudiationCount": 20,
+    "CertifiedRate": 59.18,
+    "CertifiedCountSum": 8328,
+    "RepudiationCountSum": 2532,
+    "CertifiedRateSum": 76.69
+  },
+  {
+    "Date": "2024/11/11",
+    "CertifiedCount": 63,
+    "RepudiationCount": 44,
+    "CertifiedRate": 58.88,
+    "CertifiedCountSum": 8391,
+    "RepudiationCountSum": 2576,
+    "CertifiedRateSum": 76.51
+  },
+  {
+    "Date": "2024/11/18",
+    "CertifiedCount": 41,
+    "RepudiationCount": 44,
+    "CertifiedRate": 48.24,
+    "CertifiedCountSum": 8432,
+    "RepudiationCountSum": 2620,
+    "CertifiedRateSum": 76.29
+  },
+  {
+    "Date": "2024/11/27",
+    "CertifiedCount": 38,
+    "RepudiationCount": 46,
+    "CertifiedRate": 45.24,
+    "CertifiedCountSum": 8470,
+    "RepudiationCountSum": 2666,
+    "CertifiedRateSum": 76.06
+  },
+  {
+    "Date": "2024/11/29",
+    "CertifiedCount": 31,
+    "RepudiationCount": 24,
+    "CertifiedRate": 56.36,
+    "CertifiedCountSum": 8501,
+    "RepudiationCountSum": 2690,
+    "CertifiedRateSum": 75.96
+  },
+  {
+    "Date": "2024/12/06",
+    "CertifiedCount": 49,
+    "RepudiationCount": 51,
+    "CertifiedRate": 49.0,
+    "CertifiedCountSum": 8550,
+    "RepudiationCountSum": 2741,
+    "CertifiedRateSum": 75.72
+  },
+  {
+    "Date": "2024/12/12",
+    "CertifiedCount": 48,
+    "RepudiationCount": 56,
+    "CertifiedRate": 46.15,
+    "CertifiedCountSum": 8598,
+    "RepudiationCountSum": 2797,
+    "CertifiedRateSum": 75.45
+  },
+  {
+    "Date": "2024/12/20",
+    "CertifiedCount": 30,
+    "RepudiationCount": 35,
+    "CertifiedRate": 46.15,
+    "CertifiedCountSum": 8628,
+    "RepudiationCountSum": 2832,
+    "CertifiedRateSum": 75.29
+  },
+  {
+    "Date": "2024/12/26",
+    "CertifiedCount": 55,
+    "RepudiationCount": 57,
+    "CertifiedRate": 49.11,
+    "CertifiedCountSum": 8683,
+    "RepudiationCountSum": 2889,
+    "CertifiedRateSum": 75.03
+  },
+  {
+    "Date": "2025/01/10",
+    "CertifiedCount": 37,
+    "RepudiationCount": 84,
+    "CertifiedRate": 30.58,
+    "CertifiedCountSum": 8720,
+    "RepudiationCountSum": 2973,
+    "CertifiedRateSum": 74.57
+  },
+  {
+    "Date": "2025/01/20",
+    "CertifiedCount": 35,
+    "RepudiationCount": 58,
+    "CertifiedRate": 37.63,
+    "CertifiedCountSum": 8755,
+    "RepudiationCountSum": 3031,
+    "CertifiedRateSum": 74.28
+  },
+  {
+    "Date": "2025/01/29",
+    "CertifiedCount": 24,
+    "RepudiationCount": 62,
+    "CertifiedRate": 27.91,
+    "CertifiedCountSum": 8779,
+    "RepudiationCountSum": 3093,
+    "CertifiedRateSum": 73.95
+  },
+  {
+    "Date": "2025/01/31",
+    "CertifiedCount": 17,
+    "RepudiationCount": 44,
+    "CertifiedRate": 27.87,
+    "CertifiedCountSum": 8796,
+    "RepudiationCountSum": 3137,
+    "CertifiedRateSum": 73.71
+  },
+  {
+    "Date": "2025/02/10",
+    "CertifiedCount": 26,
+    "RepudiationCount": 67,
+    "CertifiedRate": 27.96,
+    "CertifiedCountSum": 8822,
+    "RepudiationCountSum": 3204,
+    "CertifiedRateSum": 73.36
+  },
+  {
+    "Date": "2025/02/17",
+    "CertifiedCount": 44,
+    "RepudiationCount": 54,
+    "CertifiedRate": 44.9,
+    "CertifiedCountSum": 8866,
+    "RepudiationCountSum": 3258,
+    "CertifiedRateSum": 73.13
+  },
+  {
+    "Date": "2025/02/21",
+    "CertifiedCount": 21,
+    "RepudiationCount": 32,
+    "CertifiedRate": 39.62,
+    "CertifiedCountSum": 8887,
+    "RepudiationCountSum": 3290,
+    "CertifiedRateSum": 72.98
+  },
+  {
+    "Date": "2025/02/27",
+    "CertifiedCount": 42,
+    "RepudiationCount": 66,
+    "CertifiedRate": 38.89,
+    "CertifiedCountSum": 8929,
+    "RepudiationCountSum": 3356,
+    "CertifiedRateSum": 72.68
+  },
+  {
+    "Date": "2025/03/07",
+    "CertifiedCount": 30,
+    "RepudiationCount": 64,
+    "CertifiedRate": 31.91,
+    "CertifiedCountSum": 8959,
+    "RepudiationCountSum": 3420,
+    "CertifiedRateSum": 72.37
+  },
+  {
+    "Date": "2025/03/17",
+    "CertifiedCount": 29,
+    "RepudiationCount": 60,
+    "CertifiedRate": 32.58,
+    "CertifiedCountSum": 8988,
+    "RepudiationCountSum": 3480,
+    "CertifiedRateSum": 72.09
+  },
+  {
+    "Date": "2025/03/21",
+    "CertifiedCount": 27,
+    "RepudiationCount": 22,
+    "CertifiedRate": 55.1,
+    "CertifiedCountSum": 9015,
+    "RepudiationCountSum": 3502,
+    "CertifiedRateSum": 72.02
+  },
+  {
+    "Date": "2025/03/24",
+    "CertifiedCount": 16,
+    "RepudiationCount": 27,
+    "CertifiedRate": 37.21,
+    "CertifiedCountSum": 9031,
+    "RepudiationCountSum": 3529,
+    "CertifiedRateSum": 71.9
+  },
+  {
+    "Date": "2025/04/04",
+    "CertifiedCount": 23,
+    "RepudiationCount": 42,
+    "CertifiedRate": 35.38,
+    "CertifiedCountSum": 9054,
+    "RepudiationCountSum": 3571,
+    "CertifiedRateSum": 71.71
+  },
+  {
+    "Date": "2025/04/10",
+    "CertifiedCount": 27,
+    "RepudiationCount": 39,
+    "CertifiedRate": 40.91,
+    "CertifiedCountSum": 9081,
+    "RepudiationCountSum": 3610,
+    "CertifiedRateSum": 71.55
+  },
+  {
+    "Date": "2025/04/21",
+    "CertifiedCount": 17,
+    "RepudiationCount": 19,
+    "CertifiedRate": 47.22,
+    "CertifiedCountSum": 9098,
+    "RepudiationCountSum": 3629,
+    "CertifiedRateSum": 71.49
+  },
+  {
+    "Date": "2025/04/24",
+    "CertifiedCount": 24,
+    "RepudiationCount": 48,
+    "CertifiedRate": 33.33,
+    "CertifiedCountSum": 9122,
+    "RepudiationCountSum": 3677,
+    "CertifiedRateSum": 71.27
+  }
+]
