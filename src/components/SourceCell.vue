@@ -39,7 +39,7 @@ const convertDesc = (desc: string) :string => {
 			return ' 重篤でない症例の '
 	
 		default:
-			return ''
+			return ' '
 	}
 }
 </script>
