@@ -167,7 +167,7 @@
     </template>
 
     <template v-slot:[`item.source.url`]="item">
-      <a :href="item.item['source']['url']">{{ item.item['source']['name'] }}</a>
+      <SourceCell :url="item.item['source']['url']" :id="item.item['id']" />
     </template>
 
     <template v-slot:expanded-row="{ item }">
@@ -213,6 +213,7 @@ import FlatpickrCalendar from '@/components/FlatpickrCalendar.vue'
 import ManufacturerHelpDialog from '@/components/ManufacturerHelpDialog.vue'
 import ConcurrentVaccinationRow from '@/components/ConcurrentVaccinationRow.vue'
 import MedicalInstitutionDetail from '@/components/MedicalInstitutionDetail.vue'
+import SourceCell from '@/components/SourceCell.vue'
 
 AppBarTitle.value = String(router.currentRoute.value.name)
 AppBarColor.value = '#2962ff'
@@ -254,9 +255,8 @@ onMounted(() => {
 
 const headers = [
   { key: 'data-table-expand', width: 10 },
-  { title: 'ID', align: 'start', key: 'id' },
-  { title: '年齢', align: 'start', key: 'age' },
-  { title: '性別', align: 'start', key: 'gender' },
+  { title: '年齢', align: 'start', key: 'age', width: 15 },
+  { title: '性別', align: 'start', key: 'gender', width: 15 },
   { title: '接種日', align: 'start', key: 'vaccinated_dates' },
   { title: '症状発生日', align: 'start', key: 'onset_dates' },
   { title: '発症までの日数', align: 'start', key: 'days_to_onset', width: 80 },
