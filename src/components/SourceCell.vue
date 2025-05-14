@@ -1,5 +1,5 @@
 <template>
-	<a :href="url">{{ ordinalNumber }}</a>{{ severity }}{{ issueNumber }}
+	<a :href="url">{{ ordinalNumber }}</a> {{ severity }}{{ issueNumber }}
 </template>
 
 <script setup lang="ts">
@@ -25,21 +25,21 @@ const extractInfoFromId = (id: string) : [string, string, string] =>{
 	const split = id.split('-')
 
 	const ordinalNumber = '第' + split[0].replace('th', '回')
-	const desc = convertDesc(split[1])
+	const severity = extractSeverity(split[1])
 	const number = 'No.' + split[2]
 
-	return [ordinalNumber, desc, number]
+	return [ordinalNumber, severity, number]
 }
 
-const convertDesc = (desc: string) :string => {
+const extractSeverity = (desc: string) :string => {
 	switch (desc) {
 		case 'MIS':
-			return ' 重篤症例の '
+			return '重篤症例一覧の '
 		case 'MIN':
-			return ' 重篤でない症例の '
+			return '非重篤症例一覧の '
 	
 		default:
-			return ' '
+			return ''
 	}
 }
 </script>
